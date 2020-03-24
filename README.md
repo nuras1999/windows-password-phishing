@@ -2,6 +2,7 @@
 THIS IS FOR EDUCATIONAL PURPOSE ONLY.
 
 This program is made using pure PYTHON.
+INSTALL ALL THE REQUIRED MODULES AND PACKAGES BEFORE USE.
 
 This creates a GUI alert window where it requests for user for user password. 
 Until any password is entered the alertbox cannot be closed.

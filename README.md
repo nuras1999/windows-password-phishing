@@ -1,22 +1,25 @@
 # windows-password-phishing
-THIS IS FOR EDUCATIONAL PURPOSE ONLY.
+> Get windows admin password by Phishing 
 
-This program is made using pure PYTHON.
-INSTALL ALL THE REQUIRED MODULES AND PACKAGES BEFORE USE.
+## Overview
+- We have a habit of entering our admin password whenever windows security manager requests. What if, we create such GUI request and make someone enter their password thinking that its from system firewall. _Great right!_ 
+- This creates GUI alert window and requests for user password. 
+- Until password is entered the alertbox cannot be closed.
+- For checking correctness, it is programmed in such a way that the first entered is password is always shown as wrong.
+- This is because the user enters right password for the second time thinking the first password is mistakenly typed.
+- Both the entered passwords are stored in a textfile at the given location.
 
-This creates a GUI alert window where it requests for user for user password. 
-Until any password is entered the alertbox cannot be closed.
 
-For checking correctness, it is programmed in such a way that the first entered is password is always shown as wrong.
-This is because the user enters right password for the second time thinking the first password is mistakenly typed.
+## Precautions
+* Install all required modules and packages.
+* Using this code to prank in unauthorized PC is not encouraged.
+* This program is to understand how to create GUI using Python.
 
-Both the password(first and second entered) are stored in a text file in the given location safely.
+## Contact
+* _GitHub_ : [nuras1999](www.github.com/nuras1999)
+* _LinkedIn_ : [nuras](www.linkedin.com/in/nuras)
+* _HackerRank_ : [nuras1999](www.hackerrank.com/nuras1999)
+* _Instagram_ : [arun](www.instagram.com/arun___.___)
 
-It is best to create .exe of this program so that it can be easily executed using Social Engineering.
 
-This program is to learn how to create a simple GUI using Python.
-This tool contains less than 100 lines of code.
-
-Using this to get your friends password may lead to several severe problems.
-
-|..Explore. Code. Explore..|
+**_|..Explore. Code. Explore..|_**

@@ -16,10 +16,10 @@
 * This program is to understand how to create GUI using Python.
 
 ## Contact
-* _GitHub_ : [nuras1999](www.github.com/nuras1999)
-* _LinkedIn_ : [nuras](www.linkedin.com/in/nuras)
-* _HackerRank_ : [nuras1999](www.hackerrank.com/nuras1999)
-* _Instagram_ : [arun](www.instagram.com/arun___.___)
+* _GitHub_ : [nuras1999](https://www.github.com/nuras1999)
+* _LinkedIn_ : [nuras](https://www.linkedin.com/in/nuras)
+* _HackerRank_ : [nuras1999](https://www.hackerrank.com/nuras1999)
+* _Instagram_ : [arun](https://www.instagram.com/arun___.___)
 
 
 **_|..Explore. Code. Explore..|_**
